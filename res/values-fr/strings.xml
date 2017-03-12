@@ -11,7 +11,7 @@
     <string name="network_header">Réseau</string>
     <string name="sim2_title">Seconde carte SIM</string>
     <string name="workaround_header">Contournements</string>
-    <string name="google_enc_title">Use le codec H264 Google</string>
+    <string name="google_enc_title">Utiliser le codec H264 de Google</string>
     <string name="action_settings">Paramètres</string>
     <string name="dt2w_desc">Vous permet de réveiller l\'appareil en appuyant deux fois sur l\'écran.</string>
     <string name="otg_desc">Permet de brancher des périphériques USB (OTG). Quand cette option est activée, le MTP et ADB ne fonctionneront pas jusqu\'à la désactivation ou au redémarrage. Certains périphériques peuvent ne pas fonctionner.</string>
